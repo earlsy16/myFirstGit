@@ -1,5 +1,6 @@
 # Project Title: Software Frameworks Coursework
-## Description: A GitHub repository for my work in Software Frameworks 3813ICT
+## Description: 
+A GitHub repository for my work in Software Frameworks 3813ICT
 ### Install Instructions: 
 ### Run Instructions: 
 ### Course Content: 
